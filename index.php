@@ -65,6 +65,9 @@
                             <li>
                                 <a href="stock.php"><i class="ti-dashboard"></i><span>Stock Barang</span></a>
                             </li>
+                            <li>
+                                <a href="stock.php"><i class="ti-dashboard"></i><span>Pencatatan Barang</span></a>
+                            </li>
 							<li>
                                 <a href="javascript:void(0)" aria-expanded="true"><i class="ti-layout"></i><span>Transaksi Data
                                     </span></a>
